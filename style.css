@@ -1,4 +1,9 @@
-*{
-    margin: 2px;
-    font-family: "Plus Jakarta Sans"
+.side-bar{
+    display: flexbox;
+    border: 10px blue;
+    background-color: gray;
+    border-radius: 20px;
+}
+body{
+    background-color: cadetblue;
 }
